@@ -1,5 +1,7 @@
-/*.exe
-/*.PrjPcbStructure
-/History
-/__Previews
-/Project Logs for XDS100v3*
+/Project Outputs for */
+/Project Logs for */
+/__Previews/
+/History/
+/PnPout/
+
+*.htm
